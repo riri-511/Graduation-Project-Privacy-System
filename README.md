@@ -81,10 +81,14 @@ This system was designed with a strong focus on protecting sensitive visual data
   📂 Project Structure
 
   backend/
+  
   frontend/
+  
   data/
-yolov8n.pt
-requirements.txt
+  
+  yolov8n.pt
+
+  requirements.txt
 
 ▶️ How to Run
 	1.	Install dependencies:
