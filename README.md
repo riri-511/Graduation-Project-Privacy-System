@@ -92,12 +92,14 @@ This system was designed with a strong focus on protecting sensitive visual data
 
 ▶️ How to Run
 	1.	Install dependencies:
+	
        pip install -r requirements.txt
 
   2.	Run backend:
+     
        python main.py
 
-3.	Start frontend:
+4.	Start frontend:
 
 	•	Open the interface in your browser or run the frontend environment
 
